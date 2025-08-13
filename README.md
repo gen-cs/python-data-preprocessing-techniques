@@ -10,9 +10,9 @@ It covers:
 5. Data Encoding
 
 ## 📂 Folder Structure
-- `src/` — Python scripts for each preprocessing technique
+- ` Python scripts for each preprocessing technique
 - `notebooks/` — Demo notebooks with explanations & visualizations
-- `datasets/` — Sample datasets for practice
+- imbuld datasets used
 
 ## 🚀 Run the Notebook
 ```bash
