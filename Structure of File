@@ -1,0 +1,39 @@
+# Data Preprocessing in Python
+This notebook demonstrates core preprocessing steps:
+1. Feature Engineering
+2. Handling Missing Values
+3. Handling Imbalanced Datasets
+4. Outlier Detection
+5. Data Encoding
+
+---
+## 1️⃣ Feature Engineering
+Explanation...
+Code example...
+---
+
+## 2️⃣ Handling Missing Values
+- Mean / Median / Mode Imputation
+- Forward / Backward Fill
+- Custom Imputation
+
+---
+
+## 3️⃣ Handling Imbalanced Data
+- Random Upsampling
+- Random Downsampling
+- SMOTE
+
+---
+
+## 4️⃣ Outlier Detection
+- 5-Number Summary
+- Boxplot Visualization
+
+---
+
+## 5️⃣ Data Encoding
+- Nominal / One-Hot Encoding
+- Label / Ordinal Encoding
+- Target Guided Ordinal Encoding
+
